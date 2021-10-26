@@ -208,6 +208,7 @@ button {
     background-image: url(../img/DOMIX2.png);
     background-size: cover;
     background-attachment: fixed;
+    background-position: center;
     position: relative;
 }
 
